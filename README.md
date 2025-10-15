@@ -1,5 +1,4 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/rowlinsonmike/zed-moonlit-harvest-theme/main/assets/logo.webp" width="100" alt="Logo"/><br/>
 	Moonlit Harvest theme for <a href="https://zed.dev/">Zed</a>
 </h3>
 
