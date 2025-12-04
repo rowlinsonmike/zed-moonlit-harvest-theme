@@ -7,6 +7,14 @@
       "name": "Moonlit Harvest",
       "appearance": "dark",
       "style": {
+        "accents": [
+          "#F25E3D",
+          "#98FB98",
+          "#F2A007",
+          "#DB6A10",
+          "#F2A007",
+          "#FF7518"
+        ],
         "border": "#00000000",
         "border.variant": "#00000000",
         "border.focused": "#00000000",
